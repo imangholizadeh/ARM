@@ -21,4 +21,4 @@ W25QXX SPI Configuration
 3) p2  -->   MISO
 4) p5  -->   MOSI
 
-![alt text](https://github.com/imangholizadeh/LPC1768-SPI_FLASH_W25QXX/blob/master/pin.png)
+![alt text](https://github.com/imangholizadeh/ARM/blob/main/LPC1768-SPI_FLASH_W25QXX_with_software_spi/pin.png)
